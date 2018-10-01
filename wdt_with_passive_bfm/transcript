@@ -1,0 +1,124 @@
+# //  Questa Sim
+# //  Version 10.0b win32 May  5 2011
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# vsim -i -novopt top 
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.top
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.top1_sv_unit
+# Loading sv_std.std
+# Loading work.top1_sv_unit
+# Loading work.top
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.apbif
+# Loading work.apbif
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.wdtif
+# Loading work.wdtif
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.ahbif
+# Loading work.ahbif
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.test
+# Loading work.test
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.ahb2apb
+# Loading work.ahb2apb
+# Refreshing C:\cygwin64\home\Devi Sathya\WDT\wdtstart\ahb2apbstart1\work.wdt
+# Loading work.wdt
+#  
+log -r *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by:   Hostname:   ProcessID: 4
+#           Attempting to use alternate WLF file "./wlftzszgzx".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftzszgzx
+run 500
+# in configure else task
+# in wdtint if task
+# in wdtint if task
+# in configure else task
+# in wdtint if task
+# in wdtint if task
+# in wdtint if task
+# in wdtint if task
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
+# in wdtint if task
+# passed
